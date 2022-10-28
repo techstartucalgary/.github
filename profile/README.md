@@ -4,7 +4,8 @@
   A platform for employers and applicants to connect.
 - [Docs](https://github.com/techstartucalgary/Docs) -
   Tech Start UCalgary Docs (Tutorials, How-To Guides, Explanations, References).
-- [EasyMeal](https://github.com/techstartucalgary/EasyMeal).
+- [EasyMeal](https://github.com/techstartucalgary/EasyMeal) -
+  EasyMeal generates recipes for you based on your budget and tastes!.
 - [LifeLine](https://github.com/techstartucalgary/LifeLine) -
   A much-needed lifeline to help students never miss a deadline.
 - [Website](https://github.com/techstartucalgary/tsu-website)
