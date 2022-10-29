@@ -1,4 +1,4 @@
-🛫 Our projects for 2022-fall, 2022-winter:
+🛫 Our projects for 2022-fall, 2023-winter:
 
 - [CyberHire](https://github.com/techstartucalgary/CyberHire) -
   A platform for employers and applicants to connect.
