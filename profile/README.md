@@ -18,5 +18,6 @@
 [Concert Finder App](https://github.com/orgs/techstartucalgary/projects/8),
 [CyberHire](https://github.com/orgs/techstartucalgary/projects/6),
 [Docs](https://github.com/orgs/techstartucalgary/projects/4),
+[LifeLine](https://trello.com/b/TyJwfN1o/lifeline),
 [techstarcade](https://github.com/orgs/techstartucalgary/projects/7),
 [Website](https://github.com/orgs/techstartucalgary/projects/1).
