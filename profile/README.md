@@ -1,6 +1,6 @@
 🛫 Our projects for 2022-fall, 2023-winter:
 
-- [Concert Finder App](https://github.com/techstartucalgary/Concert-Finder-App).
+- [Bandist](https://github.com/techstartucalgary/Concert-Finder-App).
 - [CyberHire](https://github.com/techstartucalgary/CyberHire) -
   A platform for employers and applicants to connect. 
 - [Docs](https://github.com/techstartucalgary/Docs) -
@@ -16,7 +16,7 @@
   The official repository for Tech Start UCalgary's website.
 
 🛣️ Our RoadMaps:
-[Concert Finder App](https://github.com/orgs/techstartucalgary/projects/8),
+[Bandist](https://github.com/orgs/techstartucalgary/projects/8),
 [CyberHire](https://github.com/orgs/techstartucalgary/projects/6),
 [Docs](https://github.com/orgs/techstartucalgary/projects/4),
 [EasyMeal](https://github.com/orgs/techstartucalgary/projects/9),
