@@ -9,7 +9,8 @@
   EasyMeal generates recipes for you based on your budget and tastes. 
 - [LifeLine](https://github.com/techstartucalgary/LifeLine) -
   A much-needed lifeline to help students never miss a deadline.
-- [RoboticArm](https://github.com/techstartucalgary/RoboticArm).
+- [RoboticArm](https://github.com/techstartucalgary/RoboticArm) -
+  Robotic arm using reinforcement learning to help robots learn and adapt to new environments.
 - [techstarcade](https://github.com/techstartucalgary/techstarcade).
 - [Website](https://github.com/techstartucalgary/tsu-website)
   The official repository for Tech Start UCalgary's website.
