@@ -1,6 +1,7 @@
 🛫 Our projects for 2022-fall, 2023-winter:
 
-- [Bandist](https://github.com/techstartucalgary/Bandist).
+- [Bandist](https://github.com/techstartucalgary/Bandist) -
+  A cross-platform application for music enthusiasts to get notified of the latest concerts of their favorite artists.
 - [CyberHire](https://github.com/techstartucalgary/CyberHire) -
   A platform for employers and applicants to connect. 
 - [Docs](https://github.com/techstartucalgary/Docs) -
