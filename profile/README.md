@@ -11,7 +11,8 @@
   A much-needed lifeline to help students never miss a deadline.
 - [RoboticArm](https://github.com/techstartucalgary/RoboticArm) -
   Robotic arm using reinforcement learning to help robots learn and adapt to new environments.
-- [techstarcade](https://github.com/techstartucalgary/techstarcade).
+- [techstarcade](https://github.com/techstartucalgary/techstarcade) -
+  Retro style mini games in a arcade style chrome extension.
 - [Website](https://github.com/techstartucalgary/tsu-website)
   The official repository for Tech Start UCalgary's website.
 
