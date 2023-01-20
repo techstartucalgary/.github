@@ -25,3 +25,5 @@
 [LifeLine](https://trello.com/b/TyJwfN1o/lifeline),
 [techstarcade](https://github.com/orgs/techstartucalgary/projects/7),
 [Website](https://github.com/orgs/techstartucalgary/projects/1).
+
+✅ Our [system's statuses](https://status.techstartucalgary.com).
