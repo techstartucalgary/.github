@@ -8,7 +8,7 @@
   Tech Start UCalgary Docs (Tutorials, How-To Guides, Explanations, References).
 - [EasyMeal](https://github.com/techstartucalgary/EasyMeal) -
   EasyMeal generates recipes for you based on your budget and tastes. 
-- [LifeLine](https://github.com/techstartucalgary/LifeLine) -
+- [Lifeline](https://github.com/techstartucalgary/lifeline) -
   A much-needed lifeline to help students never miss a deadline.
 - [RoboticArm](https://github.com/techstartucalgary/RoboticArm) -
   Robotic arm using reinforcement learning to help robots learn and adapt to new environments.
@@ -22,7 +22,7 @@
 [CyberHire](https://github.com/orgs/techstartucalgary/projects/6),
 [Docs](https://github.com/orgs/techstartucalgary/projects/4),
 [EasyMeal](https://github.com/orgs/techstartucalgary/projects/9),
-[LifeLine](https://trello.com/b/TyJwfN1o/lifeline),
+[Lifeline](https://github.com/orgs/techstartucalgary/projects/10),
 [techstarcade](https://github.com/orgs/techstartucalgary/projects/7),
 [Website](https://github.com/orgs/techstartucalgary/projects/1).
 
