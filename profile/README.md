@@ -1,29 +1,15 @@
-🛫 Our projects for 2022-fall, 2023-winter:
+# About Us
 
-- [Bandist](https://github.com/techstartucalgary/Bandist) -
-  A cross-platform application for music enthusiasts to get notified of the latest concerts of their favorite artists.
-- [CyberHire](https://github.com/techstartucalgary/CyberHire) -
-  A platform for employers and applicants to connect. 
-- [Docs](https://github.com/techstartucalgary/Docs) -
-  Tech Start UCalgary Docs (Tutorials, How-To Guides, Explanations, References).
-- [EasyMeal](https://github.com/techstartucalgary/EasyMeal) -
-  EasyMeal generates recipes for you based on your budget and tastes. 
-- [Lifeline](https://github.com/techstartucalgary/lifeline) -
-  A much-needed lifeline to help students never miss a deadline.
-- [RoboticArm](https://github.com/techstartucalgary/RoboticArm) -
-  Robotic arm using reinforcement learning to help robots learn and adapt to new environments.
-- [techstarcade](https://github.com/techstartucalgary/techstarcade) -
-  Retro style mini games in a arcade style chrome extension.
-- [Website](https://github.com/techstartucalgary/tsu-website)
-  The official repository for Tech Start UCalgary's website.
+We're a software and business club at the University of Calgary. Through multidisciplinary teams, we take on interesting problems and use technology to solve them in awesome projects every year!
 
-🛣️ Our RoadMaps:
-[Bandist](https://github.com/orgs/techstartucalgary/projects/8),
-[CyberHire](https://github.com/orgs/techstartucalgary/projects/6),
-[Docs](https://github.com/orgs/techstartucalgary/projects/4),
-[EasyMeal](https://github.com/orgs/techstartucalgary/projects/9),
-[Lifeline](https://github.com/orgs/techstartucalgary/projects/10),
-[techstarcade](https://github.com/orgs/techstartucalgary/projects/7),
-[Website](https://github.com/orgs/techstartucalgary/projects/1).
+## 🛫 Our projects for October 2023 ➡ April 2024
 
-✅ Our [system's statuses](https://status.techstartucalgary.com).
+|                                                                              |                                                                                                                                                                                                                                                                                           |                                                                                                                 |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Achevio](https://github.com/techstartucalgary/achevio/)                     | A new take on social media where you join goal-focused communities. Share your progress and achievements with others who have similar goals. Track your journey and achieve success together!                                                                                             | [Roadmap](https://github.com/orgs/techstartucalgary/projects/12)                                                |
+| [CampusBuddy](https://github.com/techstartucalgary/CampusBuddy)              | A mobile app that bridges the gaps that students face on a day to day basis.                                                                                                                                                                                                              |                                                                                                                 |
+| [CraftXR](https://github.com/techstartucalgary/)                             | A tool for building immersive experiences.                                                                                                                                                                                                                                                |                                                                                                                 |
+| [For Your Research](https://github.com/techstartucalgary/For-Your-Research)  | Helping you iterate faster in your research processes from collection to analysis of scientific literature.                                                                                                                                                                               |                                                                                                                 |
+| [LocaLoyalty](https://github.com/techstartucalgary/loyalty-rewards-platform) | A platform for small businesses to create and launch their own loyalty program through the form of virtual stamp cards. As a customer, you would only need to download one mobile application that stores all of the small business loyalty cards that you use.                           | [Roadmap](https://docs.google.com/spreadsheets/d/1V-Zaku-8685Uixe0u05WdWMf5a-HEexMlVlTYZD9Ww0/edit?usp=sharing)                                                                                                                |
+| [reThread](https://github.com/techstartucalgary/fashion)                     | Our application educates and rewards consumers based on how sustainable their fashion consumption choices are. We tackle the primary problems preventing well-meaning consumers from making sustainable choices, including inconvenience, education and the ever-quickly changing trends. | [Roadmap](https://docs.google.com/spreadsheets/d/1akaT5pIvAK1HAKYWnUB0isCTfcXk3SuwJ05joyPlT_E/edit?usp=sharing) |
+| [Website](https://github.com/techstartucalgary/tsu-website)                  | The official repository for Tech Start UCalgary's website.                                                                                                                                                                                                                                | [Roadmap](https://github.com/orgs/techstartucalgary/projects/1)                                                 |
